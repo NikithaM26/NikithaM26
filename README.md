@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikithaM26
 - 👀 I’m currently working as a Software Development Engineer
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Svelte
 - 📫 React out to me at nikithamofficial@gmail.com or https://www.linkedin.com/in/nikitha-m/
 
 <!---
