@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikitha</h1>
+<h1>Hi 👋, I'm Nikitha</h1>
 
 - 🔭 Software Development Engineer @ TVAST
 - 🌱 I’m currently learning **Rust**
