@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikitha</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 
+- 🔭 Software Development Engineer @ TVAST
 - 🌱 I’m currently learning **Rust**
 - 📫 Connect with me: nikithamofficial@gmail.com or https://www.linkedin.com/in/nikitha-m/
 
