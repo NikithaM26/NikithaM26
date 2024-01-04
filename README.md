@@ -1,8 +1,8 @@
 <h1>Hey there! I'm Nikitha</h1>
 
 - 🔭 Software Development Engineer @ TVAST
-- I find building new tech and solving real-time problems exhilarating!
-- I also love to read documentation 🙈
+- 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
+- 👩🏻‍🏫 I also love to read documentation 🙈
 - 🌱 I’m currently learning **Rust**
 - 📫 Connect with me: nikithamofficial@gmail.com or https://www.linkedin.com/in/nikitha-m/
 
