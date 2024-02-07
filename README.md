@@ -1,4 +1,4 @@
-<h1>Hey there! I'm Nikitha</h1>
+<h1>Hi there! I'm Nikitha</h1>
 
 - 🔭 Software Development Engineer @ TVAST
 - 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
