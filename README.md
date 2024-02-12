@@ -4,8 +4,7 @@
 - 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
 - 👩🏻‍🏫 I also love to read documentation 🙈
 - 🌱 I’m currently learning **Rust**
-- 📫 Reach out to me at - nikithamofficial@gmail.com 
-- 💻 https://www.linkedin.com/in/nikitha-m/
+- 📫 Reach out to me at - <a href="https://www.linkedin.com/in/nikitha-m/">LinkedIn</a>
 
 <hr />
 <h3 align="left">Languages and Tools:</h3>
