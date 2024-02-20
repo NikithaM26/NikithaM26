@@ -2,7 +2,7 @@
 
 - 🔭 Software Development Engineer - II
 - 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
-- 👩🏻‍🏫 I also love to read documentation 🙈
+- 👩🏻‍🏫 I also love reading tech documentation 🙈
 - 🌱 I’m currently learning **Rust**
 - 📫 Reach out to me @ <a href="https://www.linkedin.com/in/nikitha-m/">LinkedIn</a>
 
