@@ -1,6 +1,6 @@
 <h1>Hey! I'm Nikitha</h1>
 
-- 🔭 Software Development Engineer @ TVAST
+- 🔭 Software Development Engineer - II
 - 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
 - 👩🏻‍🏫 I also love to read documentation 🙈
 - 🌱 I’m currently learning **Rust**
