@@ -1,6 +1,6 @@
-<h1>Hey! I'm Nikitha</h1>
+<h1>Hey there! I'm Nikitha</h1>
 
-- 🔭 Software Development Engineer - II
+- 🔭 Software Development Engineer
 - 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
 - 👩🏻‍🏫 I also love reading tech documentation 🙈
 - 🌱 I’m currently learning **Rust**
