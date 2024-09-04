@@ -1,4 +1,4 @@
-<h1>Hi! I'm Nikitha</h1>
+<h1>Hey! I'm Nikitha</h1>
 
 - 🔭 Software Development Engineer
 - 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
