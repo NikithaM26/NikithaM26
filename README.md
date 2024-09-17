@@ -1,9 +1,9 @@
-<h1>Hey! I'm Nikitha</h1>
+<h1>Hey there! I'm Nikitha 👋</h1>
 
-- 🔭 Software Development Engineer
-- 👩🏻‍💻 I find building new tech and solving real-time problems exhilarating!
-- 👩🏻‍🏫 I absolutely enjoy reading tech documentation 🙈
-- 🌱 I’m currently learning **Rust**
+- 💻 Software Development Engineer with a passion for building innovative tech solutions.
+- 🚀 I thrive on solving real-time challenges and bringing ideas to life through code.
+- 📚 A proud tech geek who actually *enjoys* reading documentation (yes, really!).
+- 🌱 Currently diving deep into **Rust** and loving the journey.
 - 📫 Reach out to me at <a href="https://www.linkedin.com/in/nikitha-m/">LinkedIn</a>
 
 <hr />
