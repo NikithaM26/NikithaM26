@@ -4,7 +4,7 @@
 - 🚀 I thrive on solving real-time challenges and bringing ideas to life through code.
 - 📚 A proud tech geek who actually *enjoys* reading documentation (yes, really!).
 - 🌱 Currently diving deep into **Rust** and loving the journey.
-- 📫 Reach out to me at <a href="https://www.linkedin.com/in/nikitha-m/">LinkedIn</a>
+- 📫 Connect with me - <a href="https://www.linkedin.com/in/nikitha-m/">LinkedIn</a>
 
 <hr />
 <h3 align="left">Languages and Tools:</h3>
