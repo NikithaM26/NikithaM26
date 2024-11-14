@@ -1,4 +1,4 @@
-<h1>Hi there! I'm Nikitha 👋🏻</h1>
+<h1>Hey! I'm Nikitha 👋🏻</h1>
 
 - 💻 Software Development Engineer with a passion for building innovative tech solutions.
 - 🚀 I thrive on solving real-time challenges and bringing ideas to life through code.
